@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rich_jackal_1073), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [All Known Endpoints](./practice/sql/all-known-endpoints) | SQL | Medium | 2026-10-02 |
 | [Two Sides of the Ledger](./practice/sql/two-sides-of-the-ledger) | SQL | Hard | 2026-10-01 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-01 |
 
