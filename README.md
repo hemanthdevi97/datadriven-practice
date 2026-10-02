@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rich_jackal_1073), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Pairwise Latency Maximum](./practice/sql/pairwise-latency-maximum) | SQL | Medium | 2026-10-02 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-10-02 |
 | [All Known Endpoints](./practice/sql/all-known-endpoints) | SQL | Medium | 2026-10-02 |
 | [Two Sides of the Ledger](./practice/sql/two-sides-of-the-ledger) | SQL | Hard | 2026-10-01 |
